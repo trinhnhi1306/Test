@@ -141,8 +141,11 @@
   <ItemGroup>
     <ClCompile Include="Hello.cpp" />
     <ClCompile Include="mylib.cpp" />
+    <ClCompile Include="xu_ly_menu.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="bien_toan_cuc.h" />
+    <ClInclude Include="xu_ly_menu.h" />
     <ClInclude Include="mylib.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

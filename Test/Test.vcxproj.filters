@@ -21,9 +21,18 @@
     <ClCompile Include="mylib.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="xu_ly_menu.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mylib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="xu_ly_menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bien_toan_cuc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
